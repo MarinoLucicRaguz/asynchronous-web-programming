@@ -1,0 +1,46 @@
+Thu, 07 Nov 2024 21:11:04 GMT InvalidSize - Error - InvalidSize: Inputed size is not supported.    at checkSize (C:\Users\Marino\Desktop\AWS\5_vjezba\kod\index.js:63:11)    at main (C:\Users\Marino\Desktop\AWS\5_vjezba\kod\index.js:90:23)    at Object.<anonymous> (C:\Users\Marino\Desktop\AWS\5_vjezba\kod\index.js:124:1)    at Module._compile (node:internal/modules/cjs/loader:1375:14)    at Module._extensions..js (node:internal/modules/cjs/loader:1434:10)    at Module.load (node:internal/modules/cjs/loader:1206:32)    at Module._load (node:internal/modules/cjs/loader:1022:12)    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:142:12)    at node:internal/main/run_main_module:28:49 
+Thu, 07 Nov 2024 21:11:05 GMT TypeError - undefined - TypeError: fs.createReadStream is not a function
+    at resizeImage (C:\Users\Marino\Desktop\AWS\5_vjezba\kod\index.js:80:25)
+    at main (C:\Users\Marino\Desktop\AWS\5_vjezba\kod\index.js:104:29) 
+Thu, 07 Nov 2024 21:11:05 GMT TypeError - undefined - TypeError: fs.createReadStream is not a function
+    at resizeImage (C:\Users\Marino\Desktop\AWS\5_vjezba\kod\index.js:80:25)
+    at main (C:\Users\Marino\Desktop\AWS\5_vjezba\kod\index.js:104:29) 
+Thu, 07 Nov 2024 21:11:05 GMT TypeError - undefined - TypeError: fs.createReadStream is not a function
+    at resizeImage (C:\Users\Marino\Desktop\AWS\5_vjezba\kod\index.js:80:25)
+    at main (C:\Users\Marino\Desktop\AWS\5_vjezba\kod\index.js:104:29) 
+Thu, 07 Nov 2024 21:11:05 GMT TypeError - undefined - TypeError: fs.createReadStream is not a function
+    at resizeImage (C:\Users\Marino\Desktop\AWS\5_vjezba\kod\index.js:80:25)
+    at main (C:\Users\Marino\Desktop\AWS\5_vjezba\kod\index.js:104:29) 
+Thu, 07 Nov 2024 21:11:05 GMT TypeError - undefined - TypeError: fs.createReadStream is not a function
+    at resizeImage (C:\Users\Marino\Desktop\AWS\5_vjezba\kod\index.js:80:25)
+    at main (C:\Users\Marino\Desktop\AWS\5_vjezba\kod\index.js:104:29) 
+Thu, 07 Nov 2024 21:13:53 GMT ReferenceError - undefined - ReferenceError: finished is not defined
+    at resizeImage (C:\Users\Marino\Desktop\AWS\5_vjezba\kod\index.js:87:3)
+    at main (C:\Users\Marino\Desktop\AWS\5_vjezba\kod\index.js:112:29) 
+Thu, 07 Nov 2024 21:13:53 GMT ReferenceError - undefined - ReferenceError: finished is not defined
+    at resizeImage (C:\Users\Marino\Desktop\AWS\5_vjezba\kod\index.js:87:3)
+    at main (C:\Users\Marino\Desktop\AWS\5_vjezba\kod\index.js:112:29) 
+Thu, 07 Nov 2024 21:13:53 GMT ReferenceError - undefined - ReferenceError: finished is not defined
+    at resizeImage (C:\Users\Marino\Desktop\AWS\5_vjezba\kod\index.js:87:3)
+    at main (C:\Users\Marino\Desktop\AWS\5_vjezba\kod\index.js:112:29) 
+Thu, 07 Nov 2024 21:13:53 GMT ReferenceError - undefined - ReferenceError: finished is not defined
+    at resizeImage (C:\Users\Marino\Desktop\AWS\5_vjezba\kod\index.js:87:3)
+    at main (C:\Users\Marino\Desktop\AWS\5_vjezba\kod\index.js:112:29) 
+Thu, 07 Nov 2024 21:13:53 GMT ReferenceError - undefined - ReferenceError: finished is not defined
+    at resizeImage (C:\Users\Marino\Desktop\AWS\5_vjezba\kod\index.js:87:3)
+    at main (C:\Users\Marino\Desktop\AWS\5_vjezba\kod\index.js:112:29) 
+Thu, 07 Nov 2024 21:14:26 GMT ReferenceError - undefined - ReferenceError: fileSize is not defined
+    at resizeImage (C:\Users\Marino\Desktop\AWS\5_vjezba\kod\index.js:87:44)
+    at main (C:\Users\Marino\Desktop\AWS\5_vjezba\kod\index.js:108:29) 
+Thu, 07 Nov 2024 21:14:26 GMT ReferenceError - undefined - ReferenceError: fileSize is not defined
+    at resizeImage (C:\Users\Marino\Desktop\AWS\5_vjezba\kod\index.js:87:44)
+    at main (C:\Users\Marino\Desktop\AWS\5_vjezba\kod\index.js:108:29) 
+Thu, 07 Nov 2024 21:14:26 GMT ReferenceError - undefined - ReferenceError: fileSize is not defined
+    at resizeImage (C:\Users\Marino\Desktop\AWS\5_vjezba\kod\index.js:87:44)
+    at main (C:\Users\Marino\Desktop\AWS\5_vjezba\kod\index.js:108:29) 
+Thu, 07 Nov 2024 21:14:26 GMT ReferenceError - undefined - ReferenceError: fileSize is not defined
+    at resizeImage (C:\Users\Marino\Desktop\AWS\5_vjezba\kod\index.js:87:44)
+    at main (C:\Users\Marino\Desktop\AWS\5_vjezba\kod\index.js:108:29) 
+Thu, 07 Nov 2024 21:14:26 GMT ReferenceError - undefined - ReferenceError: fileSize is not defined
+    at resizeImage (C:\Users\Marino\Desktop\AWS\5_vjezba\kod\index.js:87:44)
+    at main (C:\Users\Marino\Desktop\AWS\5_vjezba\kod\index.js:108:29) 
